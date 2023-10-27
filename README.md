@@ -13,4 +13,5 @@ Menu:
 ![image](https://github.com/eugenedhz/tasm_menu/assets/45404641/46dbbd63-5008-4fed-ae56-48fbf21b68c9)
 
 Inputs:
-![image](https://github.com/eugenedhz/tasm_menu/assets/45404641/b9edb308-b4d5-4954-af9c-f904e6c75cea)
+![image](https://github.com/eugenedhz/tasm_menu/assets/45404641/23d4aa2d-ea11-419b-bbcb-a2f0faf9c4dd)
+
