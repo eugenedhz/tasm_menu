@@ -211,14 +211,14 @@ endm
         mov dx, offset select
         int 21h
 
-        ax_inpt buff,5
+        ax_inpt buff,6
         mov a, ax
 
         mov ah, 09h
         mov dx, offset select
         int 21h
 
-        ax_inpt buff,5
+        ax_inpt buff,6
         mov b, ax
 
         mov ax, a
